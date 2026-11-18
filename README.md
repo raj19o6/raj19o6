@@ -1,3 +1,13 @@
+```text
+███     ███  █   █       ██  ███  █   █ ████   ███     ██
+ █     █   █ ██ ██        █ █   █  █ █  █   █ █   █     █
+ █     █████ █ █ █        █ █████   █   ████  █████     █
+ █     █   █ █   █    █   █ █   █   █   █  █  █   █ █   █
+███    █   █ █   █     ███  █   █   █   █   █ █   █  ███
+
+    S E N I O R   S O F T W A R E   D E V E L O P E R
+```
+
 ### Hi, I'm Jayraj (Raaj) Patel
 
 Full-stack developer in Vadodara, India. I build complete web apps, from Go and Python APIs to React frontends, and run them in production.
